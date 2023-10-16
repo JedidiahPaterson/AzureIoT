@@ -204,7 +204,7 @@
         {
             "@type": "Component",
             "schema": "dtmi:azure:DeviceManagement:DeviceInformation;1",
-            "name": "Device Information",
+            "name": "deviceInformation",
             "displayName": "Device Information",
             "description": "Interface with basic device hardware information."
         }
