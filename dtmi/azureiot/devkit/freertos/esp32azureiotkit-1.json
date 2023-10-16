@@ -192,6 +192,15 @@
             "schema": "integer",
             "writable": true
         },
+		{
+            "@type": "Property",
+            "displayName": {
+                "en": "Testing new property"
+            },
+            "name": "NewTestProperty",
+            "schema": "integer",
+            "writable": true
+        },
         {
             "@type": "Component",
             "schema": "dtmi:azure:DeviceManagement:DeviceInformation;1",
